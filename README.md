@@ -1,2 +1,2 @@
 # mestrado
-programos utilizados na dissertação de mestrado 
+programas utilizados na dissertação de mestrado 
